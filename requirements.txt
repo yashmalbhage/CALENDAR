@@ -75,7 +75,7 @@ regex==2021.7.6
 reportlab==3.6.11
 requests==2.26.0
 rich==10.6.0
-six==1.11.0
+six
 skjold==0.3.2
 sqlparse==0.2.4
 stripe==2.57.0
