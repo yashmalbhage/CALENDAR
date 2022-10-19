@@ -30,7 +30,6 @@ dparse==0.5.1
 filelock==3.0.12
 flake8
 future==0.18.2
-gcc
 gunicorn==20.1.0
 html5lib==1.0.1
 identify==2.2.11
